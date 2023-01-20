@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Wrapped Ether",
+        "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+        "name": "Dai Stablecoin",
+        "address": "0xdc31Ee1784292379Fbb2964b3B9C4124D8F89C60",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0xdc31Ee1784292379Fbb2964b3B9C4124D8F89C60.png"
+    },
+    {
+        "name": "Uniswap",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "symbol": "UNI",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+        "name": "Nevellus Token",
+        "address": "0x0Ab29e108a4F1BeBa89326687F8a9fBCEba8369B",
+        "symbol": "NVLS",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0x0Ab29e108a4F1BeBa89326687F8a9fBCEba8369B.png"
+    },
+    {
+        "name": "USD Coin",
+        "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C.png"
+    },
+    {
+        "name": "Theter USD",
+        "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0x79C950C7446B234a6Ad53B908fBF342b01c4d446.png"
+    }
+]

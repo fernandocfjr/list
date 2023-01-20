@@ -1,0 +1,36 @@
+{
+  "name": "@nevellusdex/chainlink-token-list",
+  "version": "0.1.0",
+  "description": "The nevellusdex Chainlink token list",
+  "main": "dist/nevellusdex-chainlink.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p dist && node internal/write.js > dist/nevellusdex-chainlink.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "dist/nevellusdex-chainlink.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevellusdex/chainlink-token-list.git"
+  },
+  "keywords": [
+    "nevellusdex",
+    "chainlink",
+    "token list"
+  ],
+  "author": "Fernando Crepaldi F jr <fernandojr@nevellus.com>",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/nevellusdex/chainlink-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.19",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "config": "workspace:*",
+    "builder": "workspace:*"
+  }
+}
