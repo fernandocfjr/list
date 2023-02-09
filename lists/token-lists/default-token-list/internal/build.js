@@ -48,7 +48,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://gateway.ipfscdn.io/ipfs/QmPcT7mSzdZ4aeDKwwukQUP3zjf2m5zpuzXZbaf6Hw2CJc",
+      "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/nvls.jpg",
     keywords: ["nevellus", "default"],
     tokens: sortTokens([
       ...ethereum,
