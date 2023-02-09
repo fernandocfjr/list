@@ -1,5 +1,5 @@
 ---
-"@nevellusdex/default-token-list": minor
+"default-token-list": minor
 ---
 
 Remove duplicate Token

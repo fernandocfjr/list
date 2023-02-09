@@ -1,3 +1,3 @@
-# `@nevellusdex/default-token-list`
+# `default-token-list`
 
 ...

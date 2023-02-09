@@ -1,4 +1,4 @@
-# @nevellusdex/default-token-list
+# default-token-list
 
 ## 1.0.0
 

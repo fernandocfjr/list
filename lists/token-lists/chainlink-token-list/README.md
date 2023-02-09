@@ -1,3 +1,3 @@
-# `@nevellusdex/testnet-token-list`
+# `testnet-token-list`
 
 ...

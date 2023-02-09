@@ -1,3 +1,3 @@
-# `@nevellusdex/community-token-list`
+# `community-token-list`
 
 ...
