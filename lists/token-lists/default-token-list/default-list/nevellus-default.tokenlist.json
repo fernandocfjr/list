@@ -1,13 +1,13 @@
 {
   "name": "Nevellus Token List",
-  "timestamp": "2023-02-09T05:16:46.239Z",
+  "timestamp": "2023-02-26T16:40:09.530Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/nvls.jpg",
+  "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/512x512/nvls.png",
   "keywords": [
     "nevellus",
     "default"
@@ -3647,7 +3647,7 @@
       "address": "0x2899a03ffDab5C90BADc5920b4f53B0884EB13cC",
       "chainId": 5,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/main/logos/token-logos/network/goerli/0x2899a03ffDab5C90BADc5920b4f53B0884EB13cC.jpg",
+      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0x2899a03ffDab5C90BADc5920b4f53B0884EB13cC.jpg",
       "name": "Dai Stablecoin",
       "symbol": "DAI"
     },
@@ -3655,7 +3655,7 @@
       "address": "0x0Ab29e108a4F1BeBa89326687F8a9fBCEba8369B",
       "chainId": 5,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/main/logos/token-logos/network/goerli/0x0Ab29e108a4F1BeBa89326687F8a9fBCEba8369B.jpg",
+      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0x36828AF48C0C9f25c4Fa7ea51A229Dd8b22f51c4.jpg",
       "name": "Nevellus Token",
       "symbol": "NVLS"
     },
@@ -3671,7 +3671,7 @@
       "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
       "chainId": 5,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/main/logos/token-logos/network/goerli/0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C.jpg",
+      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C.jpg",
       "name": "USD Coin",
       "symbol": "USDC"
     },
@@ -3679,7 +3679,7 @@
       "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
       "chainId": 5,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/main/logos/token-logos/network/goerli/0x79C950C7446B234a6Ad53B908fBF342b01c4d446.jpg",
+      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0x79C950C7446B234a6Ad53B908fBF342b01c4d446.jpg",
       "name": "Thether USD",
       "symbol": "USDT"
     },
@@ -10184,6 +10184,14 @@
       "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/eth.jpg",
       "name": "Ether",
       "symbol": "ETH"
+    },
+    {
+      "address": "0xBB44b56C434fEa6F8F0a06E032f9b1b1859fA668",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/nvls.jpg",
+      "name": "Nevellus Token",
+      "symbol": "NVLS"
     },
     {
       "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
