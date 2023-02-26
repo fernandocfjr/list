@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xBB44b56C434fEa6F8F0a06E032f9b1b1859fA668",
+    "chainId": 80001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/nvls.jpg",
+    "name": "Nevellus Token",
+    "symbol": "NVLS"
+  },
+  {
     "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
     "chainId": 80001,
     "decimals": 18,
