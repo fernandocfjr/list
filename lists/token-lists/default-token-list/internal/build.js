@@ -48,7 +48,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/nvls.jpg",
+      "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/token/512x512/nvls.png",
     keywords: ["nevellus", "default"],
     tokens: sortTokens([
       ...ethereum,
