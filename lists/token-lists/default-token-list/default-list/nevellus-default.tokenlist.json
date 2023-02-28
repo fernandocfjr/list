@@ -1,9 +1,9 @@
 {
   "name": "Nevellus Token List",
-  "timestamp": "2023-02-26T16:40:09.530Z",
+  "timestamp": "2023-02-28T02:12:47.890Z",
   "version": {
-    "major": 1,
-    "minor": 0,
+    "major": 2,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -3652,7 +3652,7 @@
       "symbol": "DAI"
     },
     {
-      "address": "0x0Ab29e108a4F1BeBa89326687F8a9fBCEba8369B",
+      "address": "0x36828AF48C0C9f25c4Fa7ea51A229Dd8b22f51c4",
       "chainId": 5,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nevellusdex/list/master/logos/token-logos/network/goerli/0x36828AF48C0C9f25c4Fa7ea51A229Dd8b22f51c4.jpg",
