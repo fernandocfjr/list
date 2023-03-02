@@ -41,8 +41,8 @@ jobs:
       - if: inputs.if_bump == true
         name: bump & publish
         run: |
-          git config --global user.email "form@sushi.com"
-          git config --global user.name "tokenlistform[bot]"
+          git config --global user.email "contact@nevellus.com"
+          git config --global user.name "Nevellus Token Listing[bot]"
           pnpm run ci:version
           pnpm run ci:publish
           git push
